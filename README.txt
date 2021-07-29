@@ -1,4 +1,4 @@
 fish
-tiger
-wolf
+tige
+wo
 Hi
