@@ -1,4 +1,4 @@
-fish
+fsh
 tig
 wolf
 Hi
