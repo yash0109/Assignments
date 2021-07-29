@@ -1,4 +1,4 @@
 fis
-tig
+tg
 wolf
 Hi
